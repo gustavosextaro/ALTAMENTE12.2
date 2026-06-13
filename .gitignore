@@ -1,0 +1,10 @@
+# Configurações locais do agente / editor
+.claude/
+
+# Lixo de SO
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Dependências (não há no projeto, mas por segurança)
+node_modules/
